@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (youtube_downloader) (2)" />
+  </component>
   <component name="MaterialThemeProjectNewConfig">
     <option name="metadata">
       <MTProjectMetadataState>
@@ -8,5 +11,9 @@
         <option name="userId" value="-6bee990e:190ac83b04b:-7ff7" />
       </MTProjectMetadataState>
     </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (youtube_downloader) (2)" project-jdk-type="Python SDK" />
+  <component name="PythonCompatibilityInspectionAdvertiser">
+    <option name="version" value="3" />
   </component>
 </project>

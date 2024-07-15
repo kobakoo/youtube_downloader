@@ -1,0 +1,2 @@
+fastapi~=0.111.1
+reactpy~=1.0.2
